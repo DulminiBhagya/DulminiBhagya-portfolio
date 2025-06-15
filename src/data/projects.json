@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food-Delivery",
+    "imageSrc": "projects/FoodDelivery.png",
+    "description": "This is a food delivery app project built to practice and learn modern web technologies, using TypeScript and JavaScript for its development, and designed to provide a convenient way for users to order food online.",
+    "skills": ["TypeScript", "JavaScript"],
+    "demo": "https://684d956674950110fa97faf8--creative-speculoos-91c649.netlify.app/",
+    "source": "https://github.com/DulminiBhagya/Food-Delivery.git"
+  },
+  {
+    "title": "Conference-Management-Syetem",
+    "imageSrc": "projects/ConferenceManegementSystem.png",
+    "description": "This is a Conference Management System project built to practice and learn modern web technologies, using React for the frontend and Node.js with JavaScript for the backend.",
+    "skills": ["React", "Express", "Node", "JavaScript"],
+    "demo": "https://github.com/DulminiBhagya/Project1.git",
+    "source": "https://github.com/DulminiBhagya/Project1.git"
+  },
+  {
+    "title": "Lap Galaxy",
+    "imageSrc": "projects/LapGalaxy.png",
+    "description": "LapGalaxy is a real-world project developed for a client, providing a convenient platform to explore and purchase laptop products, using React, Spring Boot, and Tailwind",
+    "skills": ["React", "Springboot", "Tailwind"],
+    "demo": "https://github.com/Dhanuka2002/Lap_galaxy.git",
+    "source": "https://github.com/Dhanuka2002/Lap_galaxy.git"
+  }
+]
